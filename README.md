@@ -5,7 +5,8 @@
 
 选题+开题报告+任务书+程序定制+安装测试+论文+答辩PPT都可以做
 # Innovation-Credit-Management-System-of-Ethnic-University
-基于 SSM（Spring、Spring MVC、MyBatis）的旅客行李管理系统，是为提升行李管理效率与准确性而打造的信息化平台。借助 Spring 的组件管理、Spring MVC 的请求分发及 MyBatis 的数据交互能力，实现行李全流程跟踪。  系统支持行李信息录入、托运、提取等操作。工作人员可实时更新行李状态，旅客能通过系统查询行李位置与动态。具备异常预警功能，及时处理行李丢失、损坏等情况。系统操作简便，能有效降低行李管理出错率，提升旅客出行体验，为交通枢纽的行李管理提供有力支持。 
+基于 SSM（Spring、Spring MVC、MyBatis）的民族大学创新学分管理系统，是服务于民族大学的专业学分管理平台。利用 Spring 进行依赖注入与事务管理，Spring MVC 处理请求，MyBatis 实现数据持久化。
+系统涵盖创新活动录入、学分认定、查询统计等功能。学生可提交参与创新活动的信息，教师在线审核认定学分。学校管理者能全面掌握学生创新学分情况，生成统计报表。该系统规范了民族大学创新学分管理流程，提高工作效率，激励学生积极参与创新活动，促进学生全面发展。 
 ![image](https://github.com/user-attachments/assets/df50da6f-4da3-40df-a362-e37adb61514d)
 ![image](https://github.com/user-attachments/assets/2892c377-bf6b-43e6-8fb4-a8f37a714e6a)
 ![image](https://github.com/user-attachments/assets/4dd83225-86de-4bc3-afbd-c578cc4b3318)
